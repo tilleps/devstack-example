@@ -1,0 +1,19 @@
+{
+  "name": "devstack-example",
+  "version": "0.1.0",
+  "description": "Example app using devstack",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tilleps/devstack-example.git"
+  },
+  "author": "Eugene Song <tilleps@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tilleps/devstack-example/issues"
+  },
+  "homepage": "https://github.com/tilleps/devstack-example#readme"
+}
