@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tilleps/devstack-example/issues"
   },
-  "homepage": "https://github.com/tilleps/devstack-example#readme"
+  "homepage": "https://github.com/tilleps/devstack-example#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
 }
